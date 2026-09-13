@@ -37,7 +37,7 @@ JSON can be useful for storing structured information such as:
 
 ## 📸 Learning Notes
 
-![Day 12 Notes](notes.jpg)
+![Day 12 Notes](notes.png)
 
 ## 🚀 Progress
 
