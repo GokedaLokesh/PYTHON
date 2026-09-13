@@ -1,0 +1,11 @@
+{
+    "name": "Lokesh",
+    "age": 22,
+    "skills": [
+        "python",
+        "ai",
+        "ml",
+        "deep learning"
+    ],
+    "city": "Hyderabad"
+}
